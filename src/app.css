@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: Kappelmeier;
+	font-style: normal;
+	font-weight: 100;
+	src: url(/03812482d55cb92eecaf72fc14ceaf86.woff2) format('woff2');
+}
+
+@font-face {
+	font-family: Kappelmeier;
+	font-style: normal;
+	font-weight: 400;
+	src: url(/13ffb116b95f221948ad491e8005d39c.woff2) format('woff2');
+}
+
+@font-face {
+	font-family: Kappelmeier;
+	font-style: normal;
+	font-weight: 700;
+	src: url(/5ad2f82a12b32865c238e6b8569caf73.woff2) format('woff2');
+}
